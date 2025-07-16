@@ -18,23 +18,26 @@ No pressure, just sharpening skills and keeping concepts fresh.
 ## 🗂️ Folder Structure
 
 <pre>
-neetcode-150/
-├── arrays_hashing/
-├── two_pointers/
-├── sliding_window/
-├── stack/
-├── binary_search/
-├── trees/
-├── graphs/
-├── dp_1d/
-├── dp_2d/
-├── backtracking/
-├── heaps/
-├── tries/
-├── greedy/
-├── intervals/
-├── math_geometry/
-└── bit_manipulation/
+Neetcode-150/
+├── 01 Arrays & Hashing/
+├── 02 Two pointers/
+├── 03 Stack/ 
+├── 06 Binary search/
+├── 04 Sliding window/
+├── 05 Linked list/
+├── 07 Trees/
+├── 08 Tries/
+├── 09 Backtracking/
+├── 10 Heaps & Priority queues/
+├── 11 Graphs/
+├── 12 DP 1D/
+├── 13 Intervals/
+├── 14 Greedy/
+├── 15 Advanced graphs
+├── 16 DP 2D/
+├── 17 Bit Manipulation/
+└── 18 Math & Geometry/
+
 </pre>
 
 
