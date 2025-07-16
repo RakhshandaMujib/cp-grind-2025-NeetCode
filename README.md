@@ -60,6 +60,30 @@ class Solution:
 
 ---
 
+## ✅ Progress Tracker
+
+- [X] Arrays & Hashing
+- [ ] Two pointers
+- [ ] Stack
+- [ ] Binary search
+- [ ] Sliding window
+- [ ] Linked list
+- [ ] Trees
+- [ ] Tries
+- [ ] Backtracking
+- [ ] Heaps & Priority queues
+- [ ] Graphs
+- [ ] DP 1D
+- [ ] Intervals
+- [ ] Greedy
+- [ ] Advanced graphs
+- [ ] DP 2D
+- [ ] Bit Manipulation
+- [ ] Math & Geometry
+
+Note: ✅ could mean the topic is in-progress or it's been done
+
+---
 ## 📎 How to Use
 Clone this repo
 
