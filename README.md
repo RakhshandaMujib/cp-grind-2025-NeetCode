@@ -63,7 +63,7 @@ class Solution:
 ## ✅ Progress Tracker
 
 - [X] Arrays & Hashing
-- [ ] Two pointers
+- [X] Two pointers
 - [ ] Stack
 - [ ] Binary search
 - [ ] Sliding window
