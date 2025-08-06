@@ -64,7 +64,7 @@ class Solution:
 
 - [X] Arrays & Hashing
 - [X] Two pointers
-- [ ] Stack
+- [X] Stack
 - [ ] Binary search
 - [ ] Sliding window
 - [ ] Linked list
