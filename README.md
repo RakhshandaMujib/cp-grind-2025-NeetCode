@@ -65,7 +65,7 @@ class Solution:
 - [X] Arrays & Hashing
 - [X] Two pointers
 - [X] Stack
-- [ ] Binary search
+- [X] Binary search
 - [ ] Sliding window
 - [ ] Linked list
 - [ ] Trees
