@@ -67,7 +67,7 @@ class Solution:
 - [X] Stack
 - [X] Binary search
 - [ ] Sliding window
-- [ ] Linked list
+- [X] Linked list
 - [ ] Trees
 - [ ] Tries
 - [ ] Backtracking
