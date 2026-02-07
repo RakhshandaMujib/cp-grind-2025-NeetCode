@@ -68,7 +68,7 @@ class Solution:
 - [X] Binary search
 - [ ] Sliding window
 - [X] Linked list
-- [ ] Trees
+- [X] Trees
 - [ ] Tries
 - [ ] Backtracking
 - [ ] Heaps & Priority queues
